@@ -1,4 +1,4 @@
-# face-recodnition
+# Face-Recogination-system
 
 📋 Overview
 
@@ -26,6 +26,12 @@ This project can be used for authentication systems, attendance tracking, or sec
 
 Before running this project, ensure you have the following installed:
 
-Tool Version Description ☕ Java JDK 8 or higher For compiling and running Java code 🧠 OpenCV 4.x For image processing and face recognition 🧩 IDE IntelliJ / VS Code / Eclipse For running and managing the project 🗄️ Database (Optional) MySQL / SQLite For storing user information
+Tool	Version	Description
+☕ Java JDK	8 or higher	For compiling and running Java code
+🧠 OpenCV	4.x	For image processing and face recognition
+🧩 IDE	IntelliJ / VS Code / Eclipse	For running and managing the project
+🗄️ Database (Optional)	MySQL / SQLite	For storing user information
 
 The screeshot of this is :-
+
+<img width="638" height="593" alt="image" src="https://github.com/user-attachments/assets/a71322af-44e6-4a24-b4e9-197afbc782c0" />
